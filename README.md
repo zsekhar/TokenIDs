@@ -44,11 +44,6 @@ Substrings: ['Hello']
 Token IDs: [9906]
 ```
 
-## Future Enhancements
-- Extend tokenization to longer texts and analyze tokenization behavior.
-- Integrate a PyTorch model to process tokenized input.
-- Implement embedding representations using `numpy` or `torch`.
-
 ## License
 This project is licensed under the MIT License.
 
